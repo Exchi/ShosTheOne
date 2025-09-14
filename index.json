@@ -1,0 +1,12 @@
+{
+  "name": "ShosTheOne",
+  "sources": [
+    {
+      "name": "Just Light Novels",
+      "id": "JustLN",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/Exchi/ShosTheOne/main/JustLN.zip",
+      "lang": "en"
+    }
+  ]
+}
