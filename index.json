@@ -2,10 +2,10 @@
   "name": "ShosTheOne",
   "sources": [
     {
-      "name": "Just Light Novels",
-      "id": "JustLN",
+      "name": "Empire Novel",
+      "id": "EmpireNovel",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/Exchi/ShosTheOne/main/JustLN.zip",
+      "url": "https://raw.githubusercontent.com/Exchi/ShosTheOne/main/EmpireNovel.zip",
       "lang": "en"
     }
   ]
